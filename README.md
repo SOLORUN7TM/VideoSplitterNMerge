@@ -46,6 +46,9 @@ Jika Anda memiliki video **500 MB** dan memilih ukuran **100 MB per part**, hasi
 4. Video yang digabung akan tersimpan di folder yang sama.
 
 =====================================================================
+
+⚠ Peringatan: Aplikasi ini masih dalam tahap pengembangan dan mungkin belum sepenuhnya sempurna. Jika Anda menemukan bug atau mengalami masalah saat menggunakannya, saya mohon maaf atas ketidaknyamanannya. Jangan ragu untuk melaporkan masalah tersebut agar bisa segera diperbaiki. Terima kasih atas pengertiannya! 🙏
+
 ## 🎉 Kontribusi
 
 Ingin berkontribusi? Silakan fork repositori ini, buat perubahan, dan ajukan pull request!  
